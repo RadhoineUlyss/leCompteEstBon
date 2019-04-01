@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\coursB2\objet\C sharp\LCB\Le compte est bon\Le compte est bon\bin\Debug\Le compte est bon.exe.config
+C:\Users\Asus\Desktop\coursB2\objet\C sharp\LCB\Le compte est bon\Le compte est bon\bin\Debug\Le compte est bon.exe
+C:\Users\Asus\Desktop\coursB2\objet\C sharp\LCB\Le compte est bon\Le compte est bon\bin\Debug\Le compte est bon.pdb
+C:\Users\Asus\Desktop\coursB2\objet\C sharp\LCB\Le compte est bon\Le compte est bon\obj\Debug\Le compte est bon.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\coursB2\objet\C sharp\LCB\Le compte est bon\Le compte est bon\obj\Debug\Le compte est bon.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\coursB2\objet\C sharp\LCB\Le compte est bon\Le compte est bon\obj\Debug\Le compte est bon.exe
+C:\Users\Asus\Desktop\coursB2\objet\C sharp\LCB\Le compte est bon\Le compte est bon\obj\Debug\Le compte est bon.pdb
+C:\Users\Asus\Desktop\CoursB3\objet\C sharp\LCB\Le compte est bon\Le compte est bon\bin\Debug\Le compte est bon.exe.config
+C:\Users\Asus\Desktop\CoursB3\objet\C sharp\LCB\Le compte est bon\Le compte est bon\bin\Debug\Le compte est bon.exe
+C:\Users\Asus\Desktop\CoursB3\objet\C sharp\LCB\Le compte est bon\Le compte est bon\bin\Debug\Le compte est bon.pdb
+C:\Users\Asus\Desktop\CoursB3\objet\C sharp\LCB\Le compte est bon\Le compte est bon\obj\Debug\Le compte est bon.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\CoursB3\objet\C sharp\LCB\Le compte est bon\Le compte est bon\obj\Debug\Le compte est bon.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CoursB3\objet\C sharp\LCB\Le compte est bon\Le compte est bon\obj\Debug\Le compte est bon.exe
+C:\Users\Asus\Desktop\CoursB3\objet\C sharp\LCB\Le compte est bon\Le compte est bon\obj\Debug\Le compte est bon.pdb
